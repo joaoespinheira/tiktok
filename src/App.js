@@ -1,10 +1,15 @@
 import "./App.css";
+import React from "react";
+import Video from "./Video";
 
 function App() {
   return (
     //Ben convension
     <div className="App">
-      <h1>lets build a tiktok full stack</h1>
+      <div className="app__video">
+        <Video />
+        <Video />
+      </div>
 
       {/* app container */}
       {/*videos*/}
