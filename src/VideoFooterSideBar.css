@@ -1,0 +1,11 @@
+.videoFooterSideBar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: white;
+}
+
+.videoFooterSideBar__button {
+  padding: 20px;
+  text-align: center;
+}
